@@ -3,4 +3,6 @@ title: Matthew Whalen
 exclude:
   "README.md"
 
+include: [_pages]
 url: https://mwhalen18.github.io
+
