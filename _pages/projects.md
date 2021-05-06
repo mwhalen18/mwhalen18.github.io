@@ -30,12 +30,5 @@ permalink: /projects/
       }
     </style>
   </head>
-  
-  <body>
-    <div class = "mainContent">
-      <h1>
-        This page is currently under construction. Check back for something exciting!
-      </h1>
-    </div>
-  </body>
-</html>
+
+# Coding/Data Viz Projects
