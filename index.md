@@ -2,8 +2,6 @@
 title: "Matthew Whalen"
 permalink: /
 ---
-# This site is currently under construction...
-
 <html lang = "en">
   <head>
     <meta charset="utf-8">
@@ -34,6 +32,9 @@ permalink: /
   
   <body>
     <div class = "mainContent">
+    <h1>
+      This page is currently under construction. Check back for something exciting!
+    </h1>
       <img src= "images/DSC_0169.jpeg" width="480" style="width: 40%; max-width: 480px; min-width:200px; float:left; padding-right: 20px"/>
       Hello, my text will go here. This is where I will give a vague introduction of my interests and the type of human I am. 
       </div>
