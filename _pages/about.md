@@ -14,11 +14,11 @@ permalink: /about/
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="styles/navBarStyle.css">
     <div class="topnav" id="myTopnav">
-      <a href="../" class="active">Home</a>
-      <a href="../about">Research</a>
-      <a href="../about">Projects</a>
-      <a href="../about">Blog</a>
-      <a href="../about">CV</a>
+      <a href="../">Home</a>
+      <a href="../about" class="active">Research</a>
+      <a href="../about" class="active">Projects</a>
+      <a href="../about" class="active">Blog</a>
+      <a href="../about" class="active">CV</a>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i></a>
         <div class = "topnav-right">
