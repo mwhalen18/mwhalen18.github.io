@@ -3,6 +3,6 @@ title: "Matthew Whalen"
 permalink: /
 ---
 
-new image test
+another image test
 
-<img align="right" src="images/DSC_0169.jpeg" style = "float: right">
+<img align="right" src="images/DSC_0169.jpeg" style = "float: right; width:200px">
