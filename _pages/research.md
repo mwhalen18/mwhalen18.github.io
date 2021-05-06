@@ -30,12 +30,6 @@ permalink: /research/
       }
     </style>
   </head>
-  
-  <body>
-    <div class = "mainContent">
-      <h1>
-        This site is currently under construction. Check back later...
-      </h1>
-    </div>
-  </body>
 </html>
+
+# This site is currently under construction. Check back later...
