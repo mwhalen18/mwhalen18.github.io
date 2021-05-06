@@ -32,7 +32,9 @@ permalink: /about/
   
   <body>
     <div class = "mainContent">
-      Some day there will be information here...
+      <h1>
+        This page is currently under construction. Check back for something exciting!
+      </h1>
     </div>
   </body>
 </html>
