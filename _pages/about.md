@@ -36,7 +36,7 @@ permalink: /about/
   
   <body>
     <div class = "mainContent">
-      Some day there will be information here.
+      Some day there will be information here. not yet
     </div>
   </body>
 </html>
