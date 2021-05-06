@@ -12,7 +12,7 @@ permalink: /about/
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="styles/navBarStyle.css">
+    <link rel="stylesheet" href="../styles/navBarStyle.css">
     <div class="topnav" id="myTopnav">
       <a href="../">Home</a>
       <a href="../about" class="active">Research</a>
@@ -36,7 +36,7 @@ permalink: /about/
   
   <body>
     <div class = "mainContent">
-      Some day there will be information here. not yet
+      Some day there will be information here...
     </div>
   </body>
 </html>
