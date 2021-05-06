@@ -34,3 +34,5 @@ permalink: /blog/
 # Blog Posts
 
 ## [Breaking down R's `lm` function](/blog/)
+
+>> A look at the math and programming behind one of the most humble `R` functions. 
