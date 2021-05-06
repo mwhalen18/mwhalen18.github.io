@@ -1,6 +1,6 @@
 ---
-Title: About
-permalink: /about/
+Title: Research
+permalink: /research/
 ---
 <html lang = "en">
   <head>
@@ -11,10 +11,10 @@ permalink: /about/
     <link rel="stylesheet" href="../styles/navBarStyle.css">
     <div class="topnav" id="myTopnav">
       <a href="../">Home</a>
-      <a href="../about" class="active">Research</a>
-      <a href="../about" class="active">Projects</a>
-      <a href="../about" class="active">Blog</a>
-      <a href="../about" class="active">CV</a>
+      <a href="../research" class="active">Research</a>
+      <a href="../projects">Projects</a>
+      <a href="../blog">Blog</a>
+      <a href="../CV">CV</a>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i></a>
         <div class = "topnav-right">

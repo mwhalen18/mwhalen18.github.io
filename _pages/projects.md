@@ -1,6 +1,6 @@
 ---
-title: "Matthew Whalen"
-permalink: /
+Title: Projects
+permalink: /projects/
 ---
 <html lang = "en">
   <head>
@@ -8,11 +8,11 @@ permalink: /
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="styles/navBarStyle.css">
+    <link rel="stylesheet" href="../styles/navBarStyle.css">
     <div class="topnav" id="myTopnav">
-      <a href="../" class="active">Home</a>
+      <a href="../">Home</a>
       <a href="../research">Research</a>
-      <a href="../projects">Projects</a>
+      <a href="../projects"  class="active">Projects</a>
       <a href="../blog">Blog</a>
       <a href="../CV">CV</a>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -33,18 +33,9 @@ permalink: /
   
   <body>
     <div class = "mainContent">
-    <h1>
-      This page is currently under construction. Check back for something exciting!
-    </h1>
-      <img src= "images/DSC_0169.jpeg" width="480" style="width: 40%; max-width: 480px; min-width:200px; float:left; padding-right: 20px"/>
-      Hello, my text will go here. This is where I will give a vague introduction of my interests and the type of human I am. 
-      
-      
-      
-      
-      
-      
-      
-      </div>
+      <h1>
+        This page is currently under construction. Check back for something exciting!
+      </h1>
+    </div>
   </body>
 </html>
