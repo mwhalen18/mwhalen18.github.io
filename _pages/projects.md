@@ -31,4 +31,15 @@ permalink: /projects/
     </style>
   </head>
 </html>
-# Coding/Data Viz Projects
+
+## [MovieRec: An automated movie recommending twitter bot](/)
+
+>> Building a content based movie recommendation system from scratch
+
+## [ME!](/)
+
+>> I've been tracking data on myself for 7 years so I build a databse and data dashboard to analyze myself. 
+
+## [Kaggle Submissions](/)
+
+>> A collection of selected Kaggle Competition submissions
