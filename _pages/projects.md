@@ -32,6 +32,12 @@ permalink: /projects/
   </head>
 </html>
 
+*links to not work*
+
+## [AbracadabraStats](/)
+
+>>
+
 ## [MovieRec: An automated movie recommending twitter bot](/)
 
 >> Building a content based movie recommendation system from scratch

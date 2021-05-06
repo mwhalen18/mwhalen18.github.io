@@ -32,6 +32,7 @@ permalink: /blog/
   </head>
 </html>
 # Blog Posts
+*links to not work*
 
 ## [Breaking down R's `lm` function](/blog/)
 
