@@ -31,6 +31,9 @@ permalink: /blog/
     </style>
   </head>
 </html>
+
+# This site is currently under construction. Check back later...
+<!---
 # Blog Posts
 *links to not work*
 
@@ -38,3 +41,4 @@ permalink: /blog/
 
 >> A look at the math and programming behind one of the most humble `R` functions. 
 
+--->

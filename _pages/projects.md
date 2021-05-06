@@ -32,6 +32,9 @@ permalink: /projects/
   </head>
 </html>
 
+# This site is currently under construction. Check back later...
+
+<!---
 *links to not work*
 
 ## [AbracadabraStats](/)
@@ -48,4 +51,4 @@ permalink: /projects/
 
 ## [Kaggle Submissions](/)
 
->> A collection of selected Kaggle Competition submissions
+>> A collection of selected Kaggle Competition submissions --->

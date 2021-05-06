@@ -34,7 +34,7 @@ permalink: /research/
   <body>
     <div class = "mainContent">
       <h1>
-        This page is currently under construction. Check back for something exciting!
+        This site is currently under construction. Check back later...
       </h1>
     </div>
   </body>
