@@ -30,5 +30,5 @@ permalink: /projects/
       }
     </style>
   </head>
-
+</html>
 # Coding/Data Viz Projects

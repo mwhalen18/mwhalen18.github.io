@@ -30,5 +30,5 @@ permalink: /blog/
       }
     </style>
   </head>
-
+</html>
 # Blog Posts
