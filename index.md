@@ -18,6 +18,9 @@ permalink: /
       <a href="#about">About</a>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i></a>
+        <div class = "topnav-right">
+          <a href = "https://www.twitter.com/matthewrwhalen"> <i class="fa fa-twitter"></i></a>
+        </div>
     </div>
     <style>
       .mainContent {
