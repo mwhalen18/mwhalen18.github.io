@@ -1,6 +1,6 @@
 ---
 title: "Matthew Whalen"
-permalink: /home
+permalink: /
 ---
 
 Hey look Im restarting my website. Yay
