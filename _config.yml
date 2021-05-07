@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-title: "Matthew Whalen \break PhD Student at The University of Michigan"
+title: "Matthew Whalen"
+subtitle: "PhD Student Univeristy of Michigan"
 exclude:
   "README.md"
 
