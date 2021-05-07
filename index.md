@@ -42,7 +42,7 @@ permalink: /
   I am a behavioral ecologist broadly interested in causes and consequences of variation in phenotypes in natural populations. In my research I combine field manipulations, hormonal assays, and quantitative genetic approaches to understand why individuals vary in their traits and how this variation results in fitness consequences at the individual and population level.
 </p>
 <p>
-In addition to my empiracle work, I am jointly enrolled in the University of Michigan's Electrical Engineering & Computer Science graduate program where I hope to bring software and database best practices to long term ecological research. I am an active member of the #rstats community and love to ramble about all things coding on my blog.
+In addition to my empirical work, I am jointly enrolled in the University of Michigan's Electrical Engineering & Computer Science graduate program where I hope to bring software and database best practices to long term ecological research. I am an active member of the #rstats community and love to ramble about all things coding on my blog.
 </p>
 <br/>
 <br/>
@@ -50,7 +50,7 @@ In addition to my empiracle work, I am jointly enrolled in the University of Mic
   More About Me!
 </h2>
 <p>
-  I received my B.S from Creighton Unviversity in 2018 where I studied Biology and Physics. After graduating, I spent a year teaching high school biology and algebra as part of the Alum Service Corps volunteer teaching program. I started my PhD at University of Michigan in 2019 with Dr. Ben Dantzer where I currently work on the Kluane Red Squirrel Project. Our project utilizes an extensive long term database to answer integrative questions across ecology, evolution, and physiology. 
+  I received my B.S from Creighton University in 2018 where I studied Biology and Physics. After graduating, I spent a year teaching high school biology and algebra as part of the Alum Service Corps volunteer teaching program. I started my PhD at University of Michigan in 2019 with Dr. Ben Dantzer where I currently work on the Kluane Red Squirrel Project. Our project utilizes an extensive long term database to answer integrative questions across ecology, evolution, and physiology. 
 </p>
   
   </div>
