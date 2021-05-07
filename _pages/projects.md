@@ -52,4 +52,4 @@ permalink: /projects/
 
 ## [Kaggle Submissions](/)
 
->> A collection of selected Kaggle Competition submissions --->
+>> A collection of selected Kaggle Competition submissions

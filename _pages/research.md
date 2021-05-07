@@ -32,4 +32,7 @@ permalink: /research/
   </head>
 </html>
 
-# This site is currently under construction. Check back later...
+# The Kluane Red Squirrel Project
+
+
+# Life-history trade-offs in sand crickets
