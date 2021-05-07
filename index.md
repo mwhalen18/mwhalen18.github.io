@@ -45,7 +45,6 @@ permalink: /
 In addition to my empirical work, I am jointly enrolled in the University of Michigan's Electrical Engineering & Computer Science graduate program where I hope to bring software and database best practices to long term ecological research. I am an active member of the #rstats community and love to ramble about all things coding on my blog.
 </p>
 <br/>
-<br/>
 <h2>
   More About Me!
 </h2>
