@@ -33,7 +33,10 @@ permalink: /
  
   <body>
     <div class = "mainContent">
- 
+    <h1>
+      This site is currently under construction. Check back later...
+    </h1>
+    
     <img src= "images/DSC_0169.jpeg" width="480" style="width: 40%; max-width: 480px; min-width:200px; float:left; padding-right: 20px"/>
 <p>
   I am a behavioral ecologist broadly interested in causes and consequences of variation in phenotypes in natural populations. In my research I combine field manipulations, hormonal assays, and quantitative genetic approaches to understand why individuals vary in their traits and how this variation results in fitness consequences at the individual and population level.
