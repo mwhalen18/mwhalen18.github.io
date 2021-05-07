@@ -32,14 +32,11 @@ permalink: /projects/
   </head>
 </html>
 
-# This site is currently under construction. Check back later...
-
-<!---
-*links to not work*
+# This site is currently under construction. Check back later for links that actually work...
 
 ## [AbracadabraStats](/)
 
->>
+>> Learn more about my YouTube channel!
 
 ## [MovieRec: An automated movie recommending twitter bot](/)
 
@@ -47,7 +44,11 @@ permalink: /projects/
 
 ## [ME!](/)
 
->> I've been tracking data on myself for 7 years so I build a databse and data dashboard to analyze myself. 
+>> I've been tracking data on myself for 7 years so I build a databse and data dashboard to analyze myself.
+
+## [Visualizing Sorting Algorithms](/)
+
+>> I'm not the first to do this and I won't be the last. 
 
 ## [Kaggle Submissions](/)
 

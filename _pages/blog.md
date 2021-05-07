@@ -32,13 +32,21 @@ permalink: /blog/
   </head>
 </html>
 
-# This site is currently under construction. Check back later...
-<!---
+# This site is currently under construction. Check back later for links that work...
+
 # Blog Posts
-*links to not work*
+## [Logistic Regression: R vs Python -- What's the difference?](/blog/)
+
+>> Comparing the underlying functionality of SciKit Learn and R's glm
+
+## [Breaking down R's `glm` function](/blog/)
+
+>> The follow up to the smash hit "Breaking down R's `lm` function"
+
+## [Simulating and Visualizing Hierarchical Linear Models](/blog/)
+
+>> What even are are GLMMs???
 
 ## [Breaking down R's `lm` function](/blog/)
 
 >> A look at the math and programming behind one of the most humble `R` functions. 
-
---->
