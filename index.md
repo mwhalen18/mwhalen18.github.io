@@ -45,7 +45,7 @@ In addition to my empirical work, I am jointly enrolled in the University of Mic
   More About Me!
 </h2>
 <p>
-  I received my B.S from Creighton University in 2018 where I studied Biology and Physics. After graduating, I spent a year teaching high school biology and algebra as part of the Alum Service Corps volunteer teaching program. I started my PhD at University of Michigan in 2019 with Dr. Ben Dantzer where I currently work on the Kluane Red Squirrel Project. Our project utilizes an extensive long term database to answer integrative questions across ecology, evolution, and physiology. 
+  I received my B.S from Creighton University in 2018 where I studied Biology and Physics. I worked with Dr. Amy Worthington investigating life-history trade-offs in sand crickets. After graduating, I spent a year teaching high school biology and algebra as part of the Alum Service Corps volunteer teaching program. I started my PhD at University of Michigan in 2019 with Dr. Ben Dantzer where I currently work on the Kluane Red Squirrel Project. Our project utilizes an extensive long term database to answer integrative questions across ecology, evolution, and physiology. 
 </p>
   
   </div>
