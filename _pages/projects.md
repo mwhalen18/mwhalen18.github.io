@@ -38,7 +38,7 @@ permalink: /projects/
 
 >> Learn more about my YouTube channel!
 
-## [MovieRec: An automated movie recommending twitter bot](/)
+## [MovieRec: An automated movie recommending twitter bot](/_pages/projects/MovieRec.Rmd)
 
 >> Building a content based movie recommendation system from scratch
 
@@ -46,9 +46,9 @@ permalink: /projects/
 
 >> I've been tracking data on myself for 7 years so I build a databse and data dashboard to analyze myself.
 
-## [Visualizing Sorting Algorithms](/)
+## [#TidyTuesday](/)
 
->> I'm not the first to do this and I won't be the last. 
+>> My Weekly 20-minute-tidy. A gallery of my Tidy Tuesday posts 
 
 ## [Kaggle Submissions](/)
 
