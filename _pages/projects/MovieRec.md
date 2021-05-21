@@ -1,5 +1,6 @@
 ---
 title: "MovieRec"
+permalink: /projects/MovieRec
 ---
 
 [Click here to see the bot in action!](https://twitter.com/rec_movie)
@@ -32,6 +33,17 @@ I intially started out with a self-specified model where I weighted actors and d
 ## The bot
 
 Once everything else was up and running the bot was easy! The rest was just automating the scripts and sitting back and watching it do its thing. I am effectively the only person who actually engages with the thing so I have also programmed it to tweet on its own every so often.
+
+## Caveats
+
+This was a fantastic first adventure into a solo data project. I learned a lot and looking back I wish I could spend more time improving it. I would love to throw other learning models at it or include additional variables in the cosine similarity, but I will leave it as is and just enjoy that one year after downloading `R` for the first time I made this little toy.
+
+**Check out the bot in action!**
+
+[@rec_movie](https://twitter.com/rec_movie)
+
+**Link to the Github repo**
+[Github -- MovieRecommender](https://github.com/mwhalen18/MovieRecommender)
 
 
 
