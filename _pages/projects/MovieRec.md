@@ -1,6 +1,5 @@
 ---
 title: "MovieRec"
-permalink: "/projects/MovieRec"
 ---
 
 [Click here to see the bot in action!](https://twitter.com/rec_movie)

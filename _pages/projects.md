@@ -38,7 +38,7 @@ permalink: /projects/
 
 >> Learn more about my YouTube channel!
 
-## [MovieRec: An automated movie recommending twitter bot](/_pages/projects/MovieRec.Rmd)
+## [MovieRec: An automated movie recommending twitter bot](/_pages/projects/MovieRec.md)
 
 >> Building a content based movie recommendation system from scratch
 
