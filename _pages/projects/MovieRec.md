@@ -5,12 +5,12 @@ permalink: /projects/MovieRec
 
 [Click here to see the bot in action!](https://twitter.com/rec_movie)
 
-## Updates to my robo-baby
+## Updates on robo-baby
 
-04-04-21: Twitter bot has a new learning algorithm, based on bag-of-words modelling (this replaces the previous 'what does Matt think the most important features are for predicting a movie' model)
-03-22-21: Twitter bot now recommends a random movie every day!
-03-02-21: Twitter bot now lives in the cloud!
-03-01-21: Twitter bot is down because my computer crashed :(
+  - 04-04-21: Twitter bot has a new learning algorithm, based on bag-of-words modelling (this replaces the previous 'what does Matt think the most important features are for predicting a movie' model)
+  - 03-22-21: Twitter bot now recommends a random movie every day!
+  - 03-02-21: Twitter bot now lives in the cloud!
+  - 03-01-21: Twitter bot is down because my computer crashed :(
 
 # About the project
 
