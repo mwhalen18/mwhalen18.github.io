@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-exclude: [R]
+exclude: [R, extra.css]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
