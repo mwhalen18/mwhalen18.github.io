@@ -14,7 +14,7 @@ Check below to learn more about my projects
       <div class="card-body">
         <h5 class="card-title">ShamStream</h5>
         <p class="card-text">A free and open source media library built with Jellyfin</p>
-        <a href="#">Go to ShamStream</a>
+        <a href="https://streaming.matthewrwhalen.com">Go to ShamStream</a>
       </div>
     </div>
   </div>
