@@ -16,6 +16,15 @@ Easter is coming soon this month and we're embracing the Easter season with a co
 ### First Reformed (2017)
 
 
+### A trilogy by Ingmar Bergman
+
+#### Through a Glass Darkly (1961)
+
+#### Winter Light (1963)
+
+#### The Silence (1963)
+
+
 ### The Master (2012)
 
 
