@@ -7,4 +7,28 @@ categories: jekyll update
 
 ## Contemplations on Faith and Religion
 
-Easter is cming soon this month and we're ringin in the Easter season with a collection featuring some of the best films that examine how we as humans engage with the super natural.
+Easter is coming soon this month and we're embracing the Easter season with a collection featuring some of the best films that examine how we as humans engage with, question, and embrace the super-natural forces in our religious traditions. 
+
+
+### Silence (2016)
+
+
+### First Reformed (2017)
+
+
+### The Master (2012)
+
+
+### The Seventh Seal (1957)
+
+
+### A Serious Man (2009)
+
+
+### Stalker (1979)
+
+
+### The Tree of Life (2011)
+
+
+### Into Great Silence (2005)
