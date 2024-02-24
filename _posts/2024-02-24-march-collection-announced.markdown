@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "March's Featured Collection Announced"
-date:   2023-02-24 08:27:01 -0600
+date:   2024-02-24 08:27:01 -0600
 categories: jekyll update
-permalink: /foo/
+permalink: /march-collection/
 ---
 
 ## Contemplations on Faith and Religion
