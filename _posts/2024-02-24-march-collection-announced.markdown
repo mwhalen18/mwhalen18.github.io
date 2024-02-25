@@ -12,18 +12,21 @@ Easter is coming soon this month and we're embracing the Easter season with a co
 
 
 ### Silence (2016)
+*Martin Scorsese*
 
 ![](/assets/images/Silence-01716R.jpg)
 
 In this passion project from director Martin Scorsese (who spent nearly three decades trying to get it made), a 17th century Portuguese Jesuit priest (Andrew Garfield) receives word that his mentor (Liam Neeson) has renounced his faith while on a mission in Japan. Concerned, he travels to the island nation with another clergyman (Adam Driver) to investigate, only to find that the country's Christian population are being systematically exterminated. Witnessing the inglorious reality of torture and martyrdom committed against Japanese Christians rocks his faith to the core. Based on Shusaku Endo's acclaimed 1966 novel. 
 
 ### First Reformed (2017)
+*Paul Shrader*
 
 ![](/assets/images/First-Reformed.jpg)
 
 Reverend Ernst Toller (Ethan Hawke) is a solitary, middle-aged parish pastor at a small Dutch Reform church in upstate New York on the cusp of celebrating its 250th anniversary. Once a stop on the Underground Railroad, the church is now a tourist attraction catering to a dwindling congregation, eclipsed by its nearby parent church, Abundant Life, with its state-of-the-art facilities and 5,000-strong flock. When a pregnant parishioner (Amanda Seyfried) asks Reverend Toller to counsel her husband, a radical environmentalist, the clergyman finds himself plunged into his own tormented past, and equally despairing future, until he finds redemption in an act of grandiose violence. From writer-director Paul Schrader (Taxi Driver; American Gigolo; Affliction) comes a gripping thriller about a crisis of faith that is at once personal, political, and planetary.
 
 ### A trilogy by Ingmar Bergman
+*Ingmar Bergman*
 
 In 1960, Swedish director Ingmar Bergman began work on three of his most powerful and representative films, eventually presented as a trilogy. Already a figure of international acclaim for such masterpieces as The Seventh Seal and The Magician, Bergman turned his back on the expressionism of his fifties work to focus on a series of chamber dramas exploring belief and alienation in the modern age. Collaborating with the distinguished cinematographer Sven Nykvist, and eliciting searing performances from his refined cast of regulars—Harriet Andersson, Gunnar Björnstrand, Gunnel Lindblom, Ingrid Thulin, and Max Von Sydow among them—Bergman unleashed Through a Glass Darkly, Winter Light, and The Silence in rapid succession, exposing moviegoers worldwide to a new level of intellectual and emotional intensity. Drawing on Bergman’s own upbringing and ongoing spiritual crises, the films of the trilogy examine the necessity of religion and question the promise of faith.
 
@@ -47,6 +50,7 @@ Two sisters—the sickly, intellectual Ester (Ingrid Thulin) and the sensual, pr
 
 
 ### The Master (2012)
+*Paul Thomas Anderson*
 
 ![](/assets/images/master.webp)
 
@@ -54,6 +58,7 @@ Paul Thomas Anderson writes and directs this Academy Award-nominated drama about
 
 
 ### The Seventh Seal (1957)
+*Ingmar Bergman*
 
 ![](/assets/images/seventh-seal.jpg)
 
@@ -61,6 +66,7 @@ Returning exhausted from the Crusades to find medieval Sweden gripped by the Pla
 
 
 ### A Serious Man (2009)
+*Joel and Ethen Coen*
 
 ![](/assets/images/serious-man.jpg)
 
@@ -68,6 +74,7 @@ Returning exhausted from the Crusades to find medieval Sweden gripped by the Pla
 
 
 ### Stalker (1979)
+*Andrei Tarkovsky*
 
 ![](/assets/images/stalker.jpg)
 
@@ -75,6 +82,7 @@ Andrei Tarkovsky’s final Soviet feature is a metaphys­ical journey through an
 
 
 ### The Tree of Life (2011)
+*Terrence Malick*
 
 ![](/assets/images/tol.jpg)
 
@@ -82,3 +90,17 @@ Four decades into an already legendary career, Terrence Malick realized his most
 
 
 ### Into Great Silence (2005)
+*Philip Gröning*
+
+![](/assets/images/into-silence.jpg)
+
+Nestled deep in the postcard-perfect French Alps, the Grande Chartreuse is considered one of the world's most ascetic monastaries. In 1984, German filmmaker Philip Gröning wrote to the Carthusian order for permission to make a documentary about themn. They said they would get back to him. Sixteen years later, they were ready. Gröning, sans crew or artificial lighting, lived in the monks' quarters for six months-filming their daily prayers, tasks, rituals, and rare outdoor excursions. This transcendent, closely observed film seeks to embody a monestery, rather than simply depict one - it has no score, no voiceover and no archival footage. What remains is stunningly elemental: time, space, and light. One of the most mesmerizing and poetic chronicles of spirituality ever created, *Into Great Silence* dissolves the border between screen and audience with a total immersion into the hush of manstic life. More meditation that documentary, it's a rare, transformative experience.  
+
+### The Prince of Egypt (1998)
+*Brenda Chapman, Steve Hickner, Simon Wells*
+
+![](/assets/images/prince-of-egypt.jpg)
+
+Both an epic adventure and a milestone in cinematic achievement, *The Prince of Egypt* is a classic of the ages for each generation.  Nearly every biblical film is ambitious, creating pictures to go with some of the most famous and sacred stories in the Western world. DreamWorks' first animated film was the vision of executive producer Jeffrey Katzenberg after his ugly split from Disney, where he had been acknowledged as a key architect in that studio's rebirth (The Little Mermaid, etc.). His first film for the company he helped create was a huge, challenging project without a single toy or merchandising tie-in, the backbone du jour of family entertainment in the 1990s.
+
+Three directors and 16 writers succeed in carrying out much of Katzenberg's vision. The linear story of Moses is crisply told, and the look of the film is stunning; indeed, no animated film has looked so ready to be placed in the Louvre since Fantasia. Here is an Egypt alive with energetic bustle and pristine buildings. Born a slave and set adrift in the river, Moses (voiced by Val Kilmer) is raised as the son of Pharaoh Seti (Patrick Stewart) and is a fitting rival for his stepbrother Rameses (Ralph Fiennes). When he learns of his roots--in a knockout sequence in which hieroglyphics come alive--he flees to the desert, where he finds his roots and heeds God's calling to free the slaves from Egypt. 
