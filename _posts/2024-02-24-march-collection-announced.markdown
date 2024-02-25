@@ -50,6 +50,8 @@ Two sisters—the sickly, intellectual Ester (Ingrid Thulin) and the sensual, pr
 
 ![](/assets/images/master.webp)
 
+Paul Thomas Anderson writes and directs this Academy Award-nominated drama about a US Navy veteran suffering from post-traumatic stress disorder who seeks salvation in the company of a charismatic cult leader. Joaquin Phoenix stars as Freddie Quell, a troubled drifter who arrives home to post-WWII America shaken, disillusioned and fearful of the future. A raging alcoholic, Quell cannot begin to make sense of his deeply-rooted inner torment, let alone surmount it. When he meets Lancaster Dodd (Philip Seymour Hoffman), the 'master' of a cult called The Cause, an intense and ambiguous relationship develops between the two men. 
+
 
 ### The Seventh Seal (1957)
 
@@ -60,6 +62,10 @@ Returning exhausted from the Crusades to find medieval Sweden gripped by the Pla
 
 ### A Serious Man (2009)
 
+![](/assets/images/serious-man.jpg)
+
+ An original and darkly humorous story about one ordinary man’s quest to become a serious man. Physics professor Larry Gopnik can’t believe his life: His wife is leaving him for his best friend, his unemployed brother won’t move off the couch, someone is threatening his career, his kids are a mystery and his neighbor is tormenting him by sunbathing nude. Struggling to make sense of it all, Larry consults three different rabbis and their answers lead him on a twisted journey of faith, family, delinquent behavior and mortality.
+
 
 ### Stalker (1979)
 
@@ -69,6 +75,8 @@ Andrei Tarkovsky’s final Soviet feature is a metaphys­ical journey through an
 
 
 ### The Tree of Life (2011)
+
+![](/assets/images/tol.jpg)
 
 Four decades into an already legendary career, Terrence Malick realized his most rapturous vision to date, tracing a story of childhood, wonder, and grief to the outer limits of time and space. Reaching back to the dawn of creation, Malick sets a story of boyhood memories on a universal scale, charting the coming of age of an awestruck child (newcomer Hunter McCracken) in Texas in the 1950s, as he learns to navigate the extremes of nature and grace represented by his bitter, often tyrannical father (Brad Pitt) and his ethereal, nurturing mother (Jessica Chastain, in her breakout role). Achieved with the aid of cinematographer Emmanuel Lubezki and production designer Jack Fisk, the Palme d’Or–winning The Tree of Life marks the intimately personal, cosmically ambitious culmination of Malick’s singular approach to filmmaking.
 
