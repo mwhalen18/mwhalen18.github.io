@@ -35,17 +35,25 @@ While vacationing on a remote island retreat, a family finds its fragile ties te
 
 #### Winter Light (1963)
 
+![](/assets/images/winter-light.jpg)
+
 “God, why hast thou forsaken me?” With Winter Light, Ingmar Bergman explores the search for redemption in a meaningless existence. Small-town pastor Tomas Ericsson (Gunnar Björnstrand) performs his duties mechanically before a dwindling congregation, including his stubbornly devoted lover, Märta (Ingrid Thulin). When he is asked to assuage a troubled parishioner’s (Max von Sydow) debilitating fear of nuclear annihilation, Tomas is terrified to find that he can provide nothing but his own doubt. The beautifully photographed Winter Light is an unsettling look at the human craving for personal validation in a world seemingly abandoned by God.
 
 #### The Silence (1963)
+
+![](/assets/images/the-silence.jpg)
 
 Two sisters—the sickly, intellectual Ester (Ingrid Thulin) and the sensual, pragmatic Anna (Gunnel Lindblom)—travel by train with Anna’s young son, Johan (Jörgen Lindström), to a foreign country that appears to be on the brink of war. Attempting to cope with their alien surroundings, each sister is left to her own vices while they vie for Johan’s affection, and in so doing sabotage what little remains of their relationship. Regarded as one of the most sexually provocative films of its day, Ingmar Bergman’s The Silence offers a disturbing vision of emotional isolation in a suffocating spiritual void.
 
 
 ### The Master (2012)
 
+![](/assets/images/master.webp)
+
 
 ### The Seventh Seal (1957)
+
+![](/assets/images/seventh-seal.jpg)
 
 Returning exhausted from the Crusades to find medieval Sweden gripped by the Plague, a knight (Max von Sydow) suddenly comes face-to-face with the hooded figure of Death, and challenges him to a game of chess. As the fateful game progresses, and the knight and his squire encounter a gallery of outcasts from a society in despair, Ingmar Bergman mounts a profound inquiry into the nature of faith and the torment of mortality. One of the most influential films of its time, The Seventh Seal is a stunning allegory of man’s search for meaning and a work of stark visual poetry.
 
@@ -54,6 +62,8 @@ Returning exhausted from the Crusades to find medieval Sweden gripped by the Pla
 
 
 ### Stalker (1979)
+
+![](/assets/images/stalker.jpg)
 
 Andrei Tarkovsky’s final Soviet feature is a metaphys­ical journey through an enigmatic postapocalyptic landscape, and a rarefied cinematic experience like no other. A hired guide—the Stalker—leads a writer and a professor into the heart of the Zone, the restricted site of a long-ago disaster, where the three men eventually zero in on the Room, a place rumored to fulfill one’s most deeply held desires. Adapting a science-fiction novel by Arkady and Boris Strugatsky, Tarkovsky created an immersive world with a wealth of material detail and a sense of organic atmosphere. A religious allegory, a reflection of contemporaneous political anxieties, a meditation on film itself—Stalker envelops the viewer by opening up a multitude of possible meanings.
 
