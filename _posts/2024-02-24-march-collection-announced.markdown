@@ -13,13 +13,15 @@ Easter is coming soon this month and we're embracing the Easter season with a co
 
 ### Silence (2016)
 
-
-
+In this passion project from director Martin Scorsese (who spent nearly three decades trying to get it made), a 17th century Portuguese Jesuit priest (Andrew Garfield) receives word that his mentor (Liam Neeson) has renounced his faith while on a mission in Japan. Concerned, he travels to the island nation with another clergyman (Adam Driver) to investigate, only to find that the country's Christian population are being systematically exterminated. Witnessing the inglorious reality of torture and martyrdom committed against Japanese Christians rocks his faith to the core. Based on Shusaku Endo's acclaimed 1966 novel. 
 
 ### First Reformed (2017)
 
+Reverend Ernst Toller (Ethan Hawke) is a solitary, middle-aged parish pastor at a small Dutch Reform church in upstate New York on the cusp of celebrating its 250th anniversary. Once a stop on the Underground Railroad, the church is now a tourist attraction catering to a dwindling congregation, eclipsed by its nearby parent church, Abundant Life, with its state-of-the-art facilities and 5,000-strong flock. When a pregnant parishioner (Amanda Seyfried) asks Reverend Toller to counsel her husband, a radical environmentalist, the clergyman finds himself plunged into his own tormented past, and equally despairing future, until he finds redemption in an act of grandiose violence. From writer-director Paul Schrader (Taxi Driver; American Gigolo; Affliction) comes a gripping thriller about a crisis of faith that is at once personal, political, and planetary.
 
 ### A trilogy by Ingmar Bergman
+
+In 1960, Swedish director Ingmar Bergman began work on three of his most powerful and representative films, eventually presented as a trilogy. Already a figure of international acclaim for such masterpieces as The Seventh Seal and The Magician, Bergman turned his back on the expressionism of his fifties work to focus on a series of chamber dramas exploring belief and alienation in the modern age. Collaborating with the distinguished cinematographer Sven Nykvist, and eliciting searing performances from his refined cast of regulars—Harriet Andersson, Gunnar Björnstrand, Gunnel Lindblom, Ingrid Thulin, and Max Von Sydow among them—Bergman unleashed Through a Glass Darkly, Winter Light, and The Silence in rapid succession, exposing moviegoers worldwide to a new level of intellectual and emotional intensity. Drawing on Bergman’s own upbringing and ongoing spiritual crises, the films of the trilogy examine the necessity of religion and question the promise of faith.
 
 #### Through a Glass Darkly (1961)
 
@@ -38,6 +40,8 @@ Two sisters—the sickly, intellectual Ester (Ingrid Thulin) and the sensual, pr
 
 
 ### The Seventh Seal (1957)
+
+Returning exhausted from the Crusades to find medieval Sweden gripped by the Plague, a knight (Max von Sydow) suddenly comes face-to-face with the hooded figure of Death, and challenges him to a game of chess. As the fateful game progresses, and the knight and his squire encounter a gallery of outcasts from a society in despair, Ingmar Bergman mounts a profound inquiry into the nature of faith and the torment of mortality. One of the most influential films of its time, The Seventh Seal is a stunning allegory of man’s search for meaning and a work of stark visual poetry.
 
 
 ### A Serious Man (2009)
