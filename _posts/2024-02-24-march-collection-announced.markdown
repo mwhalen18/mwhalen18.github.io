@@ -13,6 +13,8 @@ Easter is coming soon this month and we're embracing the Easter season with a co
 
 ### Silence (2016)
 
+![](/assets/images/Silence-01716R.jpg)
+
 In this passion project from director Martin Scorsese (who spent nearly three decades trying to get it made), a 17th century Portuguese Jesuit priest (Andrew Garfield) receives word that his mentor (Liam Neeson) has renounced his faith while on a mission in Japan. Concerned, he travels to the island nation with another clergyman (Adam Driver) to investigate, only to find that the country's Christian population are being systematically exterminated. Witnessing the inglorious reality of torture and martyrdom committed against Japanese Christians rocks his faith to the core. Based on Shusaku Endo's acclaimed 1966 novel. 
 
 ### First Reformed (2017)
