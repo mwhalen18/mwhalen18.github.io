@@ -8,7 +8,7 @@ permalink: /march-collection/
 
 ## Contemplations on Faith and Religion
 
-Easter is coming soon this month and we're embracing the Easter season with a collection featuring some of the best films that examine how we as humans engage with, question, and embrace the super-natural forces in our religious traditions. 
+Easter is coming soon and we're embracing the Easter season with a collection featuring films that examine how we as humans engage with, question, and are often in conflict with the super-natural forces in our religious traditions. 
 
 
 ### Silence (2016)
