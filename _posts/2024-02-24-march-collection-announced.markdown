@@ -13,11 +13,13 @@ Easter is coming soon this month and we're embracing the Easter season with a co
 
 ### Silence (2016)
 
-![silence](/assets/images/Silence-01716R.jpg)
+![](/assets/images/Silence-01716R.jpg)
 
 In this passion project from director Martin Scorsese (who spent nearly three decades trying to get it made), a 17th century Portuguese Jesuit priest (Andrew Garfield) receives word that his mentor (Liam Neeson) has renounced his faith while on a mission in Japan. Concerned, he travels to the island nation with another clergyman (Adam Driver) to investigate, only to find that the country's Christian population are being systematically exterminated. Witnessing the inglorious reality of torture and martyrdom committed against Japanese Christians rocks his faith to the core. Based on Shusaku Endo's acclaimed 1966 novel. 
 
 ### First Reformed (2017)
+
+![](/assets/images/First-Reformed.webp)
 
 Reverend Ernst Toller (Ethan Hawke) is a solitary, middle-aged parish pastor at a small Dutch Reform church in upstate New York on the cusp of celebrating its 250th anniversary. Once a stop on the Underground Railroad, the church is now a tourist attraction catering to a dwindling congregation, eclipsed by its nearby parent church, Abundant Life, with its state-of-the-art facilities and 5,000-strong flock. When a pregnant parishioner (Amanda Seyfried) asks Reverend Toller to counsel her husband, a radical environmentalist, the clergyman finds himself plunged into his own tormented past, and equally despairing future, until he finds redemption in an act of grandiose violence. From writer-director Paul Schrader (Taxi Driver; American Gigolo; Affliction) comes a gripping thriller about a crisis of faith that is at once personal, political, and planetary.
 
