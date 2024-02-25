@@ -49,8 +49,12 @@ Returning exhausted from the Crusades to find medieval Sweden gripped by the Pla
 
 ### Stalker (1979)
 
+Andrei Tarkovsky’s final Soviet feature is a metaphys­ical journey through an enigmatic postapocalyptic landscape, and a rarefied cinematic experience like no other. A hired guide—the Stalker—leads a writer and a professor into the heart of the Zone, the restricted site of a long-ago disaster, where the three men eventually zero in on the Room, a place rumored to fulfill one’s most deeply held desires. Adapting a science-fiction novel by Arkady and Boris Strugatsky, Tarkovsky created an immersive world with a wealth of material detail and a sense of organic atmosphere. A religious allegory, a reflection of contemporaneous political anxieties, a meditation on film itself—Stalker envelops the viewer by opening up a multitude of possible meanings.
+
 
 ### The Tree of Life (2011)
+
+Four decades into an already legendary career, Terrence Malick realized his most rapturous vision to date, tracing a story of childhood, wonder, and grief to the outer limits of time and space. Reaching back to the dawn of creation, Malick sets a story of boyhood memories on a universal scale, charting the coming of age of an awestruck child (newcomer Hunter McCracken) in Texas in the 1950s, as he learns to navigate the extremes of nature and grace represented by his bitter, often tyrannical father (Brad Pitt) and his ethereal, nurturing mother (Jessica Chastain, in her breakout role). Achieved with the aid of cinematographer Emmanuel Lubezki and production designer Jack Fisk, the Palme d’Or–winning The Tree of Life marks the intimately personal, cosmically ambitious culmination of Malick’s singular approach to filmmaking.
 
 
 ### Into Great Silence (2005)
