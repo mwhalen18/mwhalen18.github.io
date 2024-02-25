@@ -29,6 +29,8 @@ In 1960, Swedish director Ingmar Bergman began work on three of his most powerfu
 
 #### Through a Glass Darkly (1961)
 
+![](/assets/images/Through-a-glass.png)
+
 While vacationing on a remote island retreat, a family finds its fragile ties tested when daughter Karin (an astonishing Harriet Andersson) discovers her father (Gunnar Björnstrand) has been using her schizophrenia for his own literary ends. As she drifts in and out of lucidity, Karin’s father, her husband (Max von Sydow), and her younger brother (Lars Passgård) are unable to prevent her descent into the abyss of mental illness. Winner of the Academy Award for best foreign-language film, Through a Glass Darkly, the first work in Ingmar Bergman’s trilogy on faith and the loss of it, presents an unflinching vision of a family’s near disintegration and a tortured psyche further taunted by the intangibility of God’s presence.
 
 #### Winter Light (1963)
