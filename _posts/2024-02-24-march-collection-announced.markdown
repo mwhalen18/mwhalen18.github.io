@@ -33,6 +33,8 @@ While vacationing on a remote island retreat, a family finds its fragile ties te
 
 #### The Silence (1963)
 
+![](/assets/images/Silence-01716R.jpg)
+
 Two sisters—the sickly, intellectual Ester (Ingrid Thulin) and the sensual, pragmatic Anna (Gunnel Lindblom)—travel by train with Anna’s young son, Johan (Jörgen Lindström), to a foreign country that appears to be on the brink of war. Attempting to cope with their alien surroundings, each sister is left to her own vices while they vie for Johan’s affection, and in so doing sabotage what little remains of their relationship. Regarded as one of the most sexually provocative films of its day, Ingmar Bergman’s The Silence offers a disturbing vision of emotional isolation in a suffocating spiritual void.
 
 
