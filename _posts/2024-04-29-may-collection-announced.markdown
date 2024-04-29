@@ -26,6 +26,18 @@ Steven Spielberg's *Jaws* created the movie spectacle. It's a film that proved t
 ### Star Wars (1977)
 *The face that launched a thousand sequels* 
 
+![](/assets/images/Star-Wars.jpg)
+
+If *Jaws* created the summer blockbuster, then *Star Wars* proved to Hollywood that the age of the summer blockbuster had begun, and with its sequels *The Empire Strikes Back* and *The Last Jedi* set new benchmarks for seasonal franchise success. 
+
+Originally slotted for a Christmas release - the tried-and-true slot for commercial success of the time - much of the cast and crew was skeptical of the film's potential for success and the studio pushed its release from Christmas 1976 to May 1977. And, in an epic short-sighted blunder by studio execs 20th Century Fox agreed to waive all rights to any Star Wars sequels and any murchandising to Lucas if he forewent a raise on his salary. 
+
+Thus, when *Star Wars* opened to massive summer success and an eventual year-long theatrical run, Lucas was handed the keys to the Empire on a silver platter. Lucas would use the freedom and money from *Star Wars* success to partner with Steven Spielberg to create the *Indiana Jones* franchise, giving Lucas & Sppielberg near complete dominance over the summer blockbuster for the next decade. Lucas also launched Lucasfilm and Industrial Light & Magic (ILM), the latter of which is one of the foremost VFX houses, working on films such as Jurassic Park, Back to the Future, and Avatar: The Way of Water. 
+
+35 years after making the deal of a lifetime on the original *Star Wars*, Lucas sold Lucasfilims to Disney. With the biggest summer blockbuster monoliths housed under one roof (Disney, Pixar, Marvel, Star Wars) Disney would try to create the same magic and lure of the original Star Wars, committing to 9 sequels, 3 prequels, 5 spin-off and a slurry of tv shows. 
+
+45 years later and everyone still wants to bring that summer of 1977 back to life.
+
 ### T2: Judgement Day (1991)
 *Never bet against Big Jim*
 
