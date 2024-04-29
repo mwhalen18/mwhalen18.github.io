@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "March's Featured Collection Announced"
+title:  "May's Featured Collection Announced"
 date:   2024-04-29 08:27:01 -0600
 categories: jekyll update
 permalink: /may-collection/
@@ -14,6 +14,14 @@ The nature and appeal of the summer blockbuster has changed over time. In fact, 
 
 ### Jaws (1975)
 *The First Summer Blockbuster*
+
+![](/assets/images/Jaws.jpg)
+
+Prior to 1970, the summer months were typically a slow time in film - why see a movie when the sun is shining? Despite this, *Jaws* was an instant hit with young audiences whose natural environment was not the beach but the shopping mall. With the number of multiplex malls increasing rapidly, *Jaws* rode the high with a new generation of moviegoers who, as film historian Thomas Schatz wrote, had "time and spending money and a penchant for wandering suburban shopping malls and for repeated viewings of favorite films".  
+
+In the wake of *Jaws's* massive success, film-makers and studios began to see summer months as prime-time for big broad appeal movies. Not only did *Jaws* alter release calendars, but *Jaws* also established a new marketing paradigm for films. By front-loading promotion and using saturation marketing, studios could turn a movie into an **event**. The promotion budget for *Jaws* was a staggering $700,000 dollars - unheard of at the time, but a seeming bargain by today's film marketing standards.
+
+Steven Spielberg's *Jaws* created the movie spectacle. It's a film that proved there can be a reason to go see a movie in a crowded theater. For the next 3 deacades the summer blockbuster would define the film industry. Has anything ever quite lived up to the OG here? Hard to say, but I'm sure someone could make a convincing case that no film ever has.
 
 ### Star Wars (1977)
 *The face that launched a thousand sequels* 
