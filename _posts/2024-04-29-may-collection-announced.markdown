@@ -41,6 +41,20 @@ Thus, when *Star Wars* opened to massive summer success and an eventual year-lon
 ### T2: Judgement Day (1991)
 *Never bet against Big Jim*
 
+![](/assets/images/t2.jpg)
+
+By the early 90s, the summer blockbuster was a well established marketing strategy. The industry had figured out to turn a movie into an event, and T2 was set to be the event of all events. Images of Arnold Schwartzenneger in his leather jacket and sunglasses with the shotgun flung over his shoulder were plastered across every tv, billboard, and cereal box.
+
+When T2 finally arrived, it was th blockbuster to end all blockbusters -- the most expensive film made to date and actually lived up to its price tag. But the success of *T2* wasn't guaranteed. COming off the success of *Terminator* and the the great failure of *The Abyss* audiences were sure James Cameron's gamble on *T2* was bound to disappoint.   
+
+For starters, the T-800 had been killed in the previous movie, backing the writers into a narrative corner. The T-800 was considered the greatest villain in film - what could stand up to that? Not to mention, at the time Schwartzenegger had been transitioning away from villain and adult roles and into more family friendly roles like Kindergarten Cop, and Twins. Combine this with the massive budget of over $100 million (the largest at the time) and the rumored production difficulties. It began to appear that the big gamble would surely disappoint. The nail in the coffin came when T2 was slapped with an R-rating, eliminating one of the key demographics for the summer blockbusters of the time. 
+
+But Cameron and the crew seemingly embraced these challenges playing with audiences expectations and preconvictions, developing a truly unique story that continued the story of its predecessor, while giving the audience plenty of twists and new characters to root for. The special effects were glorious, and the action set pieces defined film-making for decades to come. 
+
+Since T2 Cameron's filmography has only gotten bigger and bolder. Each time the industry and audiences caution his big bets - Titanic, Avatar, AvatarL The Way of Water - all predicted to be spectacular, expensive busts. But it just goes to show, never bet against big Jim.
+
+T2 shattered notions not only of what a summer blockbuster could be - an adult themed high octane thrill ride, but also set a new standard for the budget of these big budget summer action flicks. Through the years we've only seen bugets balloon as studios double down on the gambles they want to take to ensure "butts in seats" come summer. 
+
 ### The Lion King (1994)
 *Disney takes control*
 
@@ -50,8 +64,23 @@ Thus, when *Star Wars* opened to massive summer success and an eventual year-lon
 ### The Dark Knight (2008)
 *How one film rocked the industry*
 
+![](/assets/images/tdk.jpg)
+
+On July 18th, 2008, Christopher Nolan's *The Dark Knight* opened in theaters worldwide and changed everything. The seminal sequel to 2005's *Batman Begins* would have an indelible impact on pop culture, the superhero genre, and the film industry in general. With a groundbreaking marketing campaign leading up to its highly anticipated release, The Dark Knight became an unforgettable big screen experience. 
+
+The initial success of TDK can be attributed to a revolutionary marketing campaign by 42 Entertainment, who created a viral interactive campaign which included scavenger hunts, fake political rallies for District Attorney Harvey Dent, and websites that included interactive games and short stories. The summer blockbuster had gone from an **event** to an **experience**.
+
+And that experience was matched by Christopher Nolan's explosive style of filmmaking. Alongside Spielberg and Cameron, Nolan has risen as a master and champion of big, bombastic oldschool filmmaking. Choosing to shoot always on film (never digital), using large format (IMAX) film for much of his productions, using practical set pieces and minimal (if any) CGI, and encouraging audiences to see movies in theaters on big screens Nolan sooon became the greatest spokesperson for the in-theater experience. And this fight would be just beginnning in 2008 as just a year later hulu would launch their streaming service and Netflix would announce Netflix Originals, their production house for straight-to-streaming tv and movie content. Going forward the summer blockbuster wouldn't be a fun movie to see, it would need to be the reason to *choose* to go to the theater rather than catch a film at home on-demand. 
+
+*The Dark Knight*'s success extended outside audience circles and was hailed by critics, earning nominations for 10 and winning 8 Oscars. However, despite wide-spread audience support, The Dark Knight was not nominated for best picture. This caused an outcry within the industry, with many labelling the Oscar voting academy as "elitist". In order to accommodate more populist films in the Best Picture slate, the academy opened up the nominations from 5 films to 10. Since then the summer blockbuster was no longer just a place for the easy popcorn flicks but studios could now leverage blockbuster success for awards campaigns. 
+
+The Dark Knight stands a turning point for much of the industry - a shift in the recognition of blockbuster films as both populaist *and* prestige, an accidental precident for how to make a *good* superhero film that wouldn't be matched (even by Nolan himself), and a standard for how to push yourself as a filmmaker to give audiences the best excperience possible -- afterall, we're paying for this right?. After The Dark Knight, not a single other leading summer blockbuster would be shot on film, shown on large format, or embrace practical filmmaking until Chrostpher Nolan's Tenet in 2020 (more on this later).
+
+
 ### The Avengers (2012)
 *The beginning of the end*
+
+
 
 ### Avengers: Endgame (2019)
 *Where do we go from here?*
