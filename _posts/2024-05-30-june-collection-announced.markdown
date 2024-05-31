@@ -42,6 +42,14 @@ But perhaps this interpretation is too pessimistic. While deeply cynical of the 
 
 ![](/assets/images/edtv.jpg)
 
+A forgotten relic of late 90s pop culture, *EdTV* is a flop 1999 comedy that probably came out ten years too early (In fact, the more successful version of this, *Zach Stone is Gonna be Famous* came out in 2014). In it, a young Matthew McConaughey plays Ed, a video store clerk who agrees to have a film crew follow him around at all times to create a new reality TV show. Sound familiar?
+
+*EdTV* came out 9 months after *The Truman Show* and it is nearly impossible to find any mention of EdTV that doesn't exist in the same breath as it's classier and more artful cousin. The film made $35 million to its mind-boggling $80 million production budget before being banished to daytime HBO and disowned by its director and main star. 
+
+*The Truman Show* is the better movie, for sure, but *EdTV* has not received nearly the credit it deserves for its exploration of why we choose to put our life in the spotlight. By shedding the dramatic irony of the main character not knowing they are on camera, *EdTV* deals much more directly with the voyeurism that we choose.
+
+Accidentally prescient in how reality tv would shape the tv landscape, why we become obsessed with celebrity, and how we claw to hold onto our five minutes of fame, *EdTV* is a fun exploration of why we watch what we watch - even when it's our own life.
+
 ### Eighth Grade (2018)
 *Bo Burnham*
 
