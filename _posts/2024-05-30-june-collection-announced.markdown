@@ -21,6 +21,7 @@ If there is one emotional thread that connects these movies, it's that we have d
 - Bo Burnham
 
 ### The Truman Show (1998)
+![](/assets/images/truman.jpg)
 *Peter Weir*
 
 ### EDtv (1999)
