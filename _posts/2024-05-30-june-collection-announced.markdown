@@ -48,6 +48,8 @@ This month's collection is a look at films that probe at where the line between 
 
 ![](/assets/images/dreamscenario.jpg)
 
-
-
-
+### Other Features
+- Blow up (1967)
+- The King of Comedy (1982)
+- Walk Hard: The Dewey Cox Story (2007)
+- Project X (2012)
