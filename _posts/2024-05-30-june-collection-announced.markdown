@@ -72,6 +72,18 @@ That *Eighth Grade* shows the ways in which our digital life in conflict or inte
 
 ![](/assets/images/videodrome.jpg)
 
+For those unfamiliar with the Cronenberg ouvre, the simplest description of *Videodrome* will sounds like a foreign language fever-dream. And that's why we love it.
+
+When Max Renn goes looking for edgy new material for his sleazy cable TV station, he stumbles across the pirate broad­­cast of a hyperviolent torture show called “Videodrome.” His attempts to unearth the program’s origins send him on a hallucinatory journey into a shadow world of right-wing conspiracies, sado­masochistic sex games, and bodily trans­formation.
+
+The film posits a simple idea: a television show could alter our biology. It could distort the way we perceive the world, could blur the line between fiction and reality, between performance and self, and turn sick fantasies into acceptable behavior. Since 1983, *Videodrome* has seen the rise of YouTube, 4chan, the 24 hour news cycle, and the Dark Web.
+
+Even the casting of Debbie Harry (iconic lead for Blondie) as Nicki represents the blurring of our performative self vs our true self. Her performance is every bit as edgy and cool as the New Wave persona she'd crafted with Blondie. When it turns out Nicki is a sexual submissive with an appetite for body modification Harry is playing a performance of the person her real-life stalkers imagined her to be: interested in sex with them, receptive to control, and open to flirting with skeezy losers like Max Renn.
+
+Since *Videodrome*, Cronenberg has not steered away from his quest to probe at how our technological world will physically change us, but *Videodrome* stands as a powerful piece of sociological provocation that might change minds. It's a looking glass. It's a masterpiece.
+
+> "All hail the new flesh."
+
 ### Nightcrawler (2014)
 *Dan Gilroy*
 
