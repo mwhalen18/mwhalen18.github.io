@@ -26,11 +26,17 @@ This month's collection is a look at films that probe at where the line between 
 ### EDtv (1999)
 *Ron Howard*
 
+![](/assets/images/edtv.jpg)
+
 ### Eighth Grade (2018)
 *Bo Burnham*
 
+![](/assets/images/eighthgrade.jpg)
+
 ### Videodrome (1983)
 *David Cronenberg*
+
+![](/assets/images/videodrome.jpg)
 
 ### Nightcrawler (2014)
 *Dan Gilroy*
