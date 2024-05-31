@@ -89,10 +89,28 @@ Since *Videodrome*, Cronenberg has not steered away from his quest to probe at h
 
 ![](/assets/images/nightcrawler.jpg)
 
+If you've ever posted on LinkedIn about how much you "love the grind" or that you have an "entrpeneurial mindset", you might be a sociopath just like Jake Gyllenhaal's Lou Bloom in Nightcrawler.
+
+A stunning and chilling performance, Gyllenhaal portrays Lou Bloom, a troubled yet magnetitic and manipulative individual who connives his way into the life of a 'stringer', a roving, freelance crime photographer on the streets of crime-ridden L.A. Over time he blurs the line between observer and participant to become the star of his own story.
+
+Nightcrawler is an exciting ride from start to finish and explores themes of "grind-culture", media ethics, and voyeurism. If there is an anology to be found in Nightcrawler I think it is Bloom himself. Bloom is society. He is the cutthroat career ladder, he is the monetary driven decision making, he is hyper-ambition run amuck, he will do whatever it takes all with the goal of glorification of the self. But to be clear, nothing counts if he doesn't get it on camera
+
+> "If it bleeds, it leads"
+
 ### Dream Scenario (2023)
 *Kristoffer Borgli*
 
 ![](/assets/images/dreamscenario.jpg)
+
+Nicolas Cage plays Paul Matthews in *Dream Scenario*, a middle-aged man with a PhD in evolutionary biology who teaches at a college—even though he’d much rather be publishing an educational book about ants. At home, he has a wife and two children.
+
+On the surface, he lives a decidedly normal, average life.
+
+Things take a strange turn when he starts showing up in people’s dreams, collectively around the world. No one knows why this is happening, but it quickly turns Paul into an overnight celebrity.
+
+Paul gets what we all crave, virality. He is the focus of everyone's attention, the star, and the film explores the costs of fame and celebrity. But this isn't the film's only theme. Underlying the surface level story is why we crave celebrity in the first place. Paul's life is seemingly normal - mundane, but normal. He craved more, and got what we all think we want - more. I think the crux of *Dream Scenario* is not "How do we handle the attention", it's "Why do we think we want it in the first place". 
+
+100% would love to get a beer with Paul Matthew's and talk about kin selection
 
 ### Other Features
 - Blow up (1967)
