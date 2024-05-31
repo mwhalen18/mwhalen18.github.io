@@ -42,7 +42,7 @@ But perhaps this interpretation is too pessimistic. While deeply cynical of the 
 
 ![](/assets/images/edtv.jpg)
 
-A forgotten relic of late 90s pop culture, *EdTV* is a flop 1999 comedy that probably came out ten years too early (In fact, the more successful version of this, *Zach Stone is Gonna be Famous* came out in 2014). In it, a young Matthew McConaughey plays Ed, a video store clerk who agrees to have a film crew follow him around at all times to create a new reality TV show. Sound familiar?
+A forgotten relic of late 90s pop culture, *EdTV* is a flop 1999 comedy that probably came out ten years too early (In fact, the more successful version of this, the TV series *Zach Stone is Gonna be Famous* came out in 2014). In it, a young Matthew McConaughey plays Ed, a video store clerk who agrees to have a film crew follow him around at all times to create a new reality TV show. Sound familiar?
 
 *EdTV* came out 9 months after *The Truman Show* and it is nearly impossible to find any mention of EdTV that doesn't exist in the same breath as it's classier and more artful cousin. The film made $35 million to its mind-boggling $80 million production budget before being banished to daytime HBO and disowned by its director and main star. 
 
@@ -54,6 +54,18 @@ Accidentally prescient in how reality tv would shape the tv landscape, why we be
 *Bo Burnham*
 
 ![](/assets/images/eighthgrade.jpg)
+
+Around the same time that screens began to dominate our lives, a Sorkinesque trope emerged in entertainment: the gadget-glued teen who is cordoned off from a film’s narrative arc by a single set of earpods. Entire romances, violent struggles, and natural disasters have occurred in the background as a young person taps away on a screen, impervious to reality.
+
+*Eighth Grade* is a refreshing take on growing up with social media that feels so real and earnest that at times it begins to feel like reliving the middle school experience (no this isn't a horror movie).
+
+The film follows Kayla, an anxious, uncomfortable teen girl who struggles at school to fit in and be heard. After school, she then comes home to make inspirational YouTube videos like “Be Yourself” or “Put Yourself Out There” for an audience of nobody. 
+
+We then see the digital and IRL life of Kayla unfold over the final week of middle school as Kayla navigates the challenges of growing up in this digital ecosystem.
+
+It may be tempting to draw a binary between "YouTube Kayla" and the "real" Kayla, but *Eighth Grade* rejects such a reductive binary. Social media might be isolating, but for Kayla to completely exclude herself from it altogether would estrange her from her fellow teens even more. If she stops performing, she would seemingly cease to exist.
+
+That *Eighth Grade* shows the ways in which our digital life in conflict or intertwined with our relationships suggests that what's happening behind the lulling glow of the checked-out teen's smartphone isn't just mindless tapping, but a social exchange unlike any other. Burnham, a teen YouTuber turned filmmaker, knows this best.
 
 ### Videodrome (1983)
 *David Cronenberg*
