@@ -23,6 +23,20 @@ This month's collection is a look at films that probe at where the line between 
 
 ![](/assets/images/truman.jpg)
 
+*The Truman Show* centers on Truman Burbank, whose life has been appropriated for
+television. Unbeknownst to Truman but known to everyone else, he stars in a worldwide reality
+show — an unending dramatic irony that exists entirely for him. In the midst of thousands of
+hidden cameras, actors, and a massive set, his life is orchestrated by God-director figure
+“Christof” for “24 hours a day, 7 days a week”. When *The Truman Show* aired in 1998 reality TV and the internet were in their infancy. 25 years later, it has proven prescient in our desires to watch the each other's lives unfold. 
+
+While the film has been subject to dozens of interpretations ranging from "psychosis", to Plato's alegory of the cave, to a "culture of control", it seems also to be a film about media and technology; more specifically, it serves as a warning for the coming age, coined by Shoshanna Zuboff, as the age of "surveillance capitalism". In her book **The Age of Surveillance Capitalism**, Zuboff defines surveillance capitalism as
+“a new economic order that claims human experience as free raw material for hidden
+commercial practices of extraction, prediction, and sales”. In this new age, our life and experiences, our most intimate moments are harvested and put on display for the world for the profit of corporations. In this new age, we are Truman and the giant tech companies are Christof.
+
+But perhaps this interpretation is too pessimistic. While deeply cynical of the world around us, *The Truman Show* finds deep empathy for Truman and reminds us that ultimately there is more joy in knowing ourself than watching and claiming to know someone else's life.
+
+> "And in case I don't see ya'. Good afternoon, good evening, and good night."
+
 ### EDtv (1999)
 *Ron Howard*
 
