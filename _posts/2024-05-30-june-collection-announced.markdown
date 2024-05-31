@@ -41,8 +41,12 @@ This month's collection is a look at films that probe at where the line between 
 ### Nightcrawler (2014)
 *Dan Gilroy*
 
+![](/assets/images/nightcrawler.jpg)
+
 ### Dream Scenario (2023)
 *Kristoffer Borgli*
+
+![](/assets/images/dreamscenario.jpg)
 
 
 
